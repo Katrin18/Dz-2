@@ -1,0 +1,46 @@
+h1{
+    background: #151414;
+    color: beige;
+    font-size: 40px;
+   text-align: center;
+
+}
+img{
+    border-radius: 2%;
+}
+
+.class1{
+    color: #808080;
+    text-align: center;
+}
+.class2 {
+    color: black;
+}
+.class3{
+font-size: 15px;
+}
+li{
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+.class4{
+    text-align: center;
+   background: black;
+    color: white;
+    font-size: 40px;
+}
+.mydiv{
+    background: black;
+    color: white;
+margin:0px;
+ text-align: center;
+    font-size: 70px;
+}
+body {
+    padding: 10px;
+    margin: 0;
+
+}
+
+

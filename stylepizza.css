@@ -1,0 +1,19 @@
+h1{
+    color: grey;
+    text-align: center;
+    font-size: 60px;
+
+}
+li{
+    font-size: 30px;
+
+}
+.ingr{
+    font-style: italic;
+}
+
+img{
+    weight: 400px;
+    height: 400px;
+    border-radius: 2%;
+}
